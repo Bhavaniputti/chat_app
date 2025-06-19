@@ -23,3 +23,8 @@ git clone https://github.com/Bhavaniputti/chat_app.git
 cd chat_app
 npm install
 npm start
+📡 Deployment
+🌐 Netlify Link
+
+🌐 Firebase Link
+
